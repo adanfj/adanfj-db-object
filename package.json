@@ -1,0 +1,23 @@
+{
+  "name": "adan-db-object",
+  "version": "1.0.0",
+  "description": "Automatically manage database objects (faunadb, mysql, etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adanfj/adanfj-db-object.git"
+  },
+  "author": "Adan FJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adanfj/adanfj-db-object/issues"
+  },
+  "homepage": "https://github.com/adanfj/adanfj-db-object#readme",
+  "dependencies": {
+    "faunadb": "^4.8.0",
+    "mysql2": "^3.2.0"
+  }
+}
